@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="prefix__Grupo_10" width="331.121" height="352.811" data-name="Grupo 10" viewBox="0 0 331.121 352.811">
+    <defs>
+        <style>
+            .prefix__cls-6{fill:#fec194}
+        </style>
+    </defs>
+    <path id="prefix__Caminho_56" d="M21.022 22.007c34.46-17.563 78.924-18.9 117.385-2.445s31.347 80.146 31.347 80.146H.791a132.926 132.926 0 0 1-2.755-33.323c.842-16.712 5.997-35.719 22.986-44.378z" data-name="Caminho 56" transform="translate(77.52 112.052)" style="fill:#fff"/>
+    <path id="prefix__Caminho_20" d="M5.068 0h32.46a31.293 31.293 0 0 0 1.882 11.822c2.235 5.525 6.358 12.655 5.651 14.087S36.94 31.7 25.767 32.381s-23.4-4.088-24.7-6 3.587-8.609 4.939-14.563A22.7 22.7 0 0 0 5.068 0z" data-name="Caminho 20" transform="translate(138.658 97.203)" style="fill:#eea671"/>
+    <g id="prefix__Grupo_1" data-name="Grupo 1" transform="translate(0 176.683)">
+        <rect id="prefix__Retângulo_4" width="331.121" height="34.051" data-name="Retângulo 4" rx="17.026" transform="translate(0 142.076)" style="fill:#2e37a5"/>
+        <path id="prefix__Caminho_73" d="M10 0h249.463a10 10 0 0 1 10 10v139.689a10 10 0 0 1-10 10H10a10 10 0 0 1-10-10V10A10 10 0 0 1 10 0z" data-name="Caminho 73" transform="translate(26.889)" style="fill:#272f95"/>
+        <rect id="prefix__Retângulo_2" width="269.463" height="159.689" data-name="Retângulo 2" rx="10" transform="translate(34.651)" style="fill:#1c237b"/>
+    </g>
+    <g id="prefix__Grupo_41" data-name="Grupo 41" transform="rotate(-3 146.427 -2152.828)">
+        <g id="prefix__Grupo_42" data-name="Grupo 42">
+            <path id="prefix__Caminho_69" d="M19.388.509s46.67-2.574 51.674 3.859-2.936 29.5-5.617 46.772S63.3 67.438 58.6 74.4s-10.621 9.638-21.139 9.316-18.992-10.007-24.302-17.135-2.553-21.773-4.7-24.63-5.846-5.14-7.353-10.6-1.836-9.693 1.33-11.245 9.4 7.71 11.948 4.391S19.388.509 19.388.509z" class="prefix__cls-6" data-name="Caminho 69" transform="translate(8.176 31.903)"/>
+            <path id="prefix__Caminho_70" d="M13.676 19.216S17.046 2.468 38.9.222 76.379 13.5 78.728 15.336s-2.578 4.377-.638 4.964 5.233-3.892 8.4-2.616 3.983 6.127 3.37 8.578-5.822 11.949-11.132 15.217-9.728 4.059-21.65 2.553-19.812-12.561-26.041-8.578-5.821 22.16-9.293 22.773-8.272-6.536-11.233-5.106-.911 7.813-2.452 6.331C5.3 56.8-1.208 43.164.2 33.1s13.476-13.884 13.476-13.884z" data-name="Caminho 70" style="fill:#e70276"/>
+            <path id="prefix__Caminho_71" d="M0 2.844S1.968-1.7 5.721.7s.894 10.11 9.293 11.744 13.659-5.821 24.305-5.209 14.3 4.493 15.829 6.944-3.166 16.135-4.9 17.973-9.852 13.454-25.578 9.88C13.564 39.51 2.4 25.842 1.125 19.081-.1 15.1 0 2.844 0 2.844z" data-name="Caminho 71" transform="translate(17.555 73.56)" style="fill:#0b0744"/>
+            <path id="prefix__Caminho_72" d="M1.278 4.739C3.4 1.472 8.2.532 11.1.16s8.085-.334 10.779 2.766a7.146 7.146 0 0 1 0 9.635c-2.266 2.218-4.245-.93-9.062-.763S5.5 14.994 2.614 13.229s-3.458-5.222-1.336-8.49z" class="prefix__cls-6" data-name="Caminho 72" transform="translate(41.739 86.419)"/>
+        </g>
+    </g>
+</svg>

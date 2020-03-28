@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="685.022" height="295.865" viewBox="0 0 685.022 295.865">
+    <defs>
+        <linearGradient id="prefix__linear-gradient" x1=".5" x2=".5" y2="1" gradientUnits="objectBoundingBox">
+            <stop offset="0" stop-color="#326ca7"/>
+            <stop offset="1" stop-color="#180c46"/>
+        </linearGradient>
+    </defs>
+    <path id="prefix__Caminho_78" d="M84.837-144.379c89.94 6.726 56.284 186.842 121.528 182.143s73.789-140.185 144.85-136.8S418.631 44.152 490.608 51.308s59.314-43.377 108.025-18.36 86.818 118.428 86.818 118.428H.5s-5.6-302.482 84.337-295.755z" data-name="Caminho 78" transform="translate(-.428 144.49)"/>
+</svg>
