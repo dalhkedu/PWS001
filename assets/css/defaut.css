@@ -1,5 +1,71 @@
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,600;0,700;0,800;1,300;1,400;1,600;1,700;1,800&display=swap');
 
+:root {
+    --body-max-size: 1920px;
+    --container-max-size: 1520px;
+    --container-min-size: 1180px;
+    --grid-template-columns: repeat(12, 1fr);
+    --pragraph-font-size: 28px;
+    --title-font-size: 42px;
+    --bg-featured: #2A135B;
+    --color-white: #ffffff;
+    --bg-btn-gradient: linear-gradient(107deg, #00d3ff, #de00d6 100%);
+}
+
 html, body {
     font-family: 'Open Sans', sans-serif;
+}
+
+body {
+    max-width: var(--body-max-size);
+    display: block;
+    margin: 0 auto;
+}
+
+a {
+    text-decoration: none;
+}
+
+ul {
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    width: var(--container-max-size);
+    max-width: var(--container-max-size);
+    margin: 0 auto;
+}
+
+.grid-container {
+    display: grid;
+    grid-template-columns: var(--grid-template-columns);
+    grid-template-rows: 1fr;
+    grid-column-gap: 0px;
+    grid-row-gap: 0px;
+}
+
+.btn {
+    display: inline-block;
+    font-weight: 400;
+    color: #212529;
+    text-align: center;
+    vertical-align: middle;
+    cursor: pointer;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    background-color: transparent;
+    border: 1px solid transparent;
+    padding: .375rem .75rem;
+    font-size: 1rem;
+    line-height: 1.5;
+    border-radius: .25rem;
+    transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+}
+
+.btn-gradient {
+    background-image: var(--bg-btn-gradient);
+    color: var(--color-white);
 }
