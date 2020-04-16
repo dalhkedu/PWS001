@@ -1,13 +1,15 @@
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,600;0,700;0,800;1,300;1,400;1,600;1,700;1,800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;900&display=swap');
 
 :root {
     --body-max-size: 1920px;
-    --container-max-size: 1520px;
-    --container-min-size: 1180px;
+    --container-max-size: 1024px;
+    --container-min-size: 769px;
     --grid-template-columns: repeat(12, 1fr);
     --pragraph-font-size: 28px;
     --title-font-size: 42px;
     --bg-featured: #2A135B;
+    --bg-second: #180c4f;
     --color-white: #ffffff;
     --bg-btn-gradient: linear-gradient(107deg, #00d3ff, #de00d6 100%);
 }
