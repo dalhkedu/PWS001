@@ -1,0 +1,20 @@
+.banner h1{
+    font-size: 45px;
+    color: var(--color-white);
+    font-weight: 600;
+    line-height: 1.35;
+    
+}
+
+.banner span{
+    color: #00d3ff;
+}
+
+.paragraph {
+    font-size: 24px;
+    line-height: 1.35;
+    color: #ffffff;
+    opacity: 0.6;
+    
+}
+
