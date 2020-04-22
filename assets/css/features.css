@@ -1,0 +1,32 @@
+.linhas{
+    display: grid ;
+    grid-column-gap: 40px;
+    grid-template-columns: auto auto auto;
+    margin: 60px 0;
+}
+
+.box-fundo {
+    border-radius: 6px;
+    background-color: #ffffff;
+    
+}
+
+.box-title {
+    background-color: #1b00a7;
+    padding: 20px 40px;
+    
+}
+
+.h2 {
+    font-size: 30px;
+    font-weight: 600;
+    color: #ffffff;
+    text-align: right;
+}
+
+.box-text {
+    color: #000000;
+    padding: 20px;
+}
+
+

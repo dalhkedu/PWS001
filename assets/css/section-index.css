@@ -1,4 +1,22 @@
 #Index {
     background-color: var(--bg-featured);
-    height: 100vh;
+    
+}
+
+#Features {
+    background-color: var(--bg-second);
+    
+}
+
+#Services {
+    background-color: var(--bg-second);
+    
+}
+
+#Testimonials {
+    background-color: var(--bg-third);
+}
+
+#Footer {
+    background-color: var(--bg-second);
 }

@@ -1,0 +1,25 @@
+.linhas-footer {
+    display: grid ;
+    grid-column-gap: 40px;
+    grid-template-columns: auto auto auto auto;
+    margin: 60px 0;
+}
+
+.navegation-footer h3{
+    color: #00d3ff;
+    font-weight: 400;
+    margin-bottom: 30px;           
+}
+
+ul.a-footer {
+    list-style: none;
+}
+
+.a-footer {
+    color: var(--color-white);
+    opacity: 0.6;
+}
+
+.a-1 {
+    margin-top: 60px;
+}

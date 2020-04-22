@@ -1,0 +1,22 @@
+.title-services h2{
+    font-size: 25px;
+    font-weight: 600;
+    color: var(--color-white);
+    
+}
+
+.title-services p{
+  opacity: 0.6;
+  font-size: 20px;
+  line-height: 1.39;
+  margin-bottom: 40px;
+  color: var(--color-white);
+
+}
+
+.icon {
+    margin: 10px 0;
+    height: 80px;
+    object-fit: contain;
+}
+
