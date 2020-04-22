@@ -1,0 +1,6 @@
+.linhas-footer {
+    display: grid ;
+    grid-column-gap: 40px;
+    grid-template-columns: auto auto auto auto;
+    margin: 60px 0;
+}

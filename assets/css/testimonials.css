@@ -5,6 +5,66 @@
     margin: 60px 0;
 }
 
-.bg-blue-1 {
-    max-width: 500px;
+#bg-blue {
+    width: 500px;
+    height: 200px;
+    background: url("../images/svg/Retângulo\ 99.svg");
+    background-size: cover;
 }
+#bg-blue-content {
+    height: 58px;
+    width: 55px;
+    background: url("../images/svg/if_quotes_1_676856.svg");
+    margin: 50px;
+    position: absolute;
+}
+
+.bg-blue-text {
+    color: var(--color-white);
+    font-size: 20px;
+    line-height: 1.80;
+    padding: 20px 20px 20px 150px;
+}
+
+#avatar {
+    width: 500px;
+    height: 200px;
+}
+
+#avatar-content {
+    width: 108px;
+    height: 108px;
+    margin: 50px 0;
+    position: absolute;
+    
+}
+
+.avatar-1 {
+    background: url("../images/png/PP-1.png");
+}
+
+.avatar-2 {
+    background: url("../images/png/PP-2.png")
+}
+
+.avatar-title {
+    padding-left: 150px;
+    padding-top: 50px;
+}
+
+.avatar-title h3{
+    color: #00d3ff;
+    font-size: 36px;
+    line-height: 1.80;
+    font-weight: 400;
+    margin: 0 auto;
+}
+
+.avatar-title p{
+    color: var(--color-white);
+    opacity: 0.4;
+    font-size: 20px;
+    margin: 0 auto;
+
+} 
+

@@ -16,3 +16,7 @@
 #Testimonials {
     background-color: var(--bg-third);
 }
+
+#Footer {
+    background-color: var(--bg-second);
+}
