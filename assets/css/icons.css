@@ -1,0 +1,62 @@
+.icon {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center bottom;
+}
+
+.icon-circle {
+    position: relative;
+    margin: 0 auto;
+    display: block;
+    width: 24px;
+    height: 24px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    top: calc((105px - 24px) / 2);
+}
+
+.circle {
+    display: inline-block;
+    width: 99px;
+    height: 99px;
+    background-color: white;
+    border-radius: 50%;
+    position: absolute;
+    top: calc(-105px / 2);
+    left: 50px;
+    border: 6px solid rgba(20, 10, 71, 0.5);
+}
+
+.large {
+    width: 39px;
+    height: 39px;
+}
+
+.large-circle {
+    top: calc((105px - 39px) / 2);
+}
+
+.small {
+    width: 15px;
+    height: 15px;
+}
+
+.small-circle {
+    top: calc((105px - 15px) / 2);
+}
+
+.icon-bag {
+    background-image: url(../images/svg/ic_local_mall_24px.svg);
+}
+
+.icon-mail {
+    background-image: url(../images/svg/ic_email_24px.svg);
+}
+
+.icon-confirmation {
+    background-image: url(../images/svg/ic_confirmation_number_24px.svg);
+}

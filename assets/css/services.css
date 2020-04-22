@@ -14,9 +14,7 @@
 
 }
 
-.icon {
-    margin: 10px 0;
-    height: 80px;
-    object-fit: contain;
+.icon-services {
+  height: 59px;
+  width: 59px;
 }
-
