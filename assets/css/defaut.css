@@ -126,3 +126,9 @@ ul {
 .section-first {
     padding-bottom: 60px;
 }
+
+.navegation-footer {
+    font-size: 25px;
+    font-weight: 400;
+    line-height: 2.14;
+}

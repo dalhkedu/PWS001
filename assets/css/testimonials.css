@@ -1,5 +1,5 @@
 .linhas-testimonials {
-    display: grid ;
+    display: grid;
     grid-column-gap: 40px;
     grid-template-columns: auto auto;
     margin: 60px 0;
