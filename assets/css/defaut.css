@@ -10,8 +10,11 @@
     --title-font-size: 42px;
     --bg-featured: #2A135B;
     --bg-second: #180c4f;
+    --bg-third: #110b56;
     --color-white: #ffffff;
     --bg-btn-gradient: linear-gradient(107deg, #00d3ff, #de00d6 100%);
+    --font-size-h4: 24px;
+    --font-size-p: 15px; 
 }
 
 html, body {
@@ -70,14 +73,46 @@ ul {
     color: var(--color-white);
 }
 
-.title-section h1{
+.title-section {
+    font-weight: normal;
+    text-align: center;
+    margin: 30px auto;
+}
+
+.h1 {
     font-size: 55px;
     line-height: 1.3;
     color: #ffffff;
-    font-weight: normal;
-    text-align: center;
-    margin: 0px auto;
-    padding-top: 120px;
+    font-weight: 400;
+    
+}
+
+.h1::after {
+    content: "";
+    width: 15%;
+    height: 1px;
+    background-color: #ffffff;
+    margin: 10px auto 0;
+    display: block;
+}
+
+.h4 {
+    font-size: var(--font-size-h4);
+    line-height: 1.46;
+    font-weight: 500;
+    margin: 10px 0;
+}
+
+.p {
+    opacity: 0.6;
+    font-size: var(--font-size-p);
+    line-height: 1.20;
+}
+
+.a {
+    font-size: 18px;
+    line-height: 1.40;
+    color: #140a47;
 }
 
 .title-section span{

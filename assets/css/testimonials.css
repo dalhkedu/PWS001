@@ -1,0 +1,10 @@
+.linhas-testimonials {
+    display: grid ;
+    grid-column-gap: 40px;
+    grid-template-columns: auto auto;
+    margin: 60px 0;
+}
+
+.bg-blue-1 {
+    max-width: 500px;
+}
